@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Currently in the pre-final year of my B.Tech in Computer Science and Engineering. 🎓<br>🚀 Actively exploring the realms of MERN stack, Data Structures and Algorithms, Data Science, and Cloud Computing. 🌐💻<br>🤝 Let's explore and collaborate on new entrepreneurial ideas. 🚀<br>📫 How to reach me: https://www.linkedin.com/in/anish-sinha-248558220/<br>😄 Pronouns: He/His<br>⚡ Fun fact: Love To Play Chess
+👨‍💻 Currently in the final year of my B.Tech in Computer Science and Engineering. 🎓<br>🚀 Actively exploring the realms of MERN stack, Data Structures and Algorithms, Data Science, and Cloud Computing. 🌐💻<br>🤝 Let's explore and collaborate on new entrepreneurial ideas. 🚀<br>📫 How to reach me: https://www.linkedin.com/in/anish-sinha-248558220/<br>😄 Pronouns: He/His<br>⚡ Fun fact: Love To Play Chess
 
 
 ## 🌐 Socials:
